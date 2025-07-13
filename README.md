@@ -32,13 +32,9 @@ A `wordpress_data` folder should exists now. This is where WordPress instance wi
 
 **A:** Set the folder permission.
 
-```sh
-chown -R 777 ./wordpress_data
-```
-
 > [!WARNING]
 > This is not advisable in production server.
 
-
-
-
+```sh
+chown -R 777 ./wordpress_data
+```
