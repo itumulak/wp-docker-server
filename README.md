@@ -36,7 +36,8 @@ A `wordpress_data` folder should exists now. This is where WordPress instance wi
 chown -R 777 ./wordpress_data
 ```
 
-This is not advisable in production server.
+> [!WARNING]
+> This is not advisable in production server.
 
 
 
